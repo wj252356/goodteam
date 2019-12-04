@@ -1,6 +1,6 @@
 # git / git hub
 
-## 1.创建github社区账号
+## 1.创建github社区账号     
 
 ### 通过百度搜索github 进入到git社区中，创建自己的账号
 
