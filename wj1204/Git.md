@@ -23,6 +23,8 @@
 - git branch  分支名 ： 新建分支
 - git checkout -b 分支名 ：创建分支并进入该分支
 - git merge ： 合并分支
+- git fetch -a :获取所有分支
+- git merge origin  分支名 ： 合并到本地分支
 
 ## 三、克隆仓库等相关操作
 
